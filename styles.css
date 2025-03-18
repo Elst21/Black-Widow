@@ -1,1 +1,28 @@
 
+.hero-card {
+    width: 300px;
+    padding: 20px;
+    margin: 20px auto;
+    border: 2px solid red;
+    text-align: center;
+    background-color: pink;
+    border-radius: 10px;
+}
+.hero-card img {
+    width: 100%;
+    border-radius: 10px;
+}
+.contact-button {
+    background-color: red; 
+    color: white; 
+    border: none; 
+    border-radius: 5px; 
+    padding: 10px 20px; 
+    font-size: 16px; 
+    cursor: pointer; 
+    transition: background-color 0.3s;   
+}
+
+.contact-button:hover {
+    background-color: blue; 
+}
