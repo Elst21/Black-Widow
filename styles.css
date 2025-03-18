@@ -20,7 +20,9 @@
     padding: 10px 20px; 
     font-size: 16px; 
     cursor: pointer; 
-    transition: background-color 0.3s;   
+    transition: background-color 0.3s; 
+    display: block; 
+    margin: 20px auto; 
 }
 
 .contact-button:hover {
